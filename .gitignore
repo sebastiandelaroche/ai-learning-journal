@@ -1,0 +1,30 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment and Dependency Files
+venv/
+env/
+*.env
+*.log
+*.swp
+*.swo
+
+# Data and Model Files (Example, customize as per your project)
+data/
+models/
+
+# IDE/Editor Files
+.vscode/
+.idea/
+.vs/
+
+# System Files (macOS and Windows)
+.DS_Store
+Thumbs.db
+.Trashes/
+.Spotlight-V100/
+desktop.ini
